@@ -1,0 +1,19 @@
+# Project-specific
+Instructions/
+Pitch/
+bikeshare_env/
+
+# Data files — keep raw data out of Git
+Bikeshare Data/
+
+# Notebook checkpoints and outputs
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+# Pickled model (large file)
+bikeshare_demand_pipeline.pkl
+
+# OS files
+.DS_Store
+Thumbs.db
